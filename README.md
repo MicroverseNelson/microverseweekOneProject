@@ -1,9 +1,32 @@
-# microverseweekOneProject
-Add a .gitignore file.
-Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
-Add descriptive README file to your project - please use this template but remember to customize it to your project.
-Add 3 files (each one in a separate commit):
-A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.
-A .css file that includes one class with styles for your header (make it in your favorite color).
-A test.md file with the text "This file should be ignored by git".
-Make sure that the last file is actually ignored by git and is not present in your GitHub repository.
+Project Name : 
+WeekOneProjectOne
+Description the project:
+The project expectation is to create three files, index.html, main.css and a gitignore file that ignores text.md. the index file should containe a h1 and should be refferenced in an external style sheet.
+The project is supposed to use Linter, a tool for helping with internal code review, styling and coding best practices
+
+Built With
+The project is built using Html & css technologies
+Frameworks : no frameworks involved as it was a basic boiler plate.
+Live Demo : Not available
+Live Demo Link : coming soon
+
+Getting Started
+- To get set up, just clone the project from https://github.com/MicroverseNelson/microverseweekOneProject/.
+- in the folder run the index file on the browser.
+
+
+
+GitHub: @MicroverseNelson
+
+
+
+Feel free to check the issues page.
+
+Show your support
+Give a star if you like this project!
+
+Acknowledgments
+Hat tip to microverse and microverse community and the entire cohort 10
+etc
+memo License
+This project is MIT licensed.
