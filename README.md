@@ -1,32 +1,46 @@
-Project Name : 
-WeekOneProjectOne
-Description the project:
-The project expectation is to create three files, index.html, main.css and a gitignore file that ignores text.md. the index file should containe a h1 and should be refferenced in an external style sheet.
-The project is supposed to use Linter, a tool for helping with internal code review, styling and coding best practices
 
-Built With
-The project is built using Html & css technologies
-Frameworks : no frameworks involved as it was a basic boiler plate.
-Live Demo : Not available
-Live Demo Link : coming soon
+# Project Name
+ - microverseweekOneProject
 
-Getting Started
-- To get set up, just clone the project from https://github.com/MicroverseNelson/microverseweekOneProject/.
-- in the folder run the index file on the browser.
+# Description the project.
+- This was a simple html and css project meant to help microverse cohort 10 to  learn to implement 
+  Linter, a tool for checking codig convention and syntax errors and also help them learn how to set up 
+  github workflows. The html css document basically dispalys a h1 header  a greeting to microverse.
 
 
+## Built With
+- Technologies used was :
+        - Html
+        - Css
+        - linter
 
-GitHub: @MicroverseNelson
+## Live Demo (if available)
+- N/A
 
 
+## Getting Started
 
-Feel free to check the issues page.
+**Step : 1 **
+- clone or download the project from the github repository
+- link is here:https://github.com/MicroverseNelson/microverseweekOneProject/
 
-Show your support
-Give a star if you like this project!
+**Step : 2 **
+- find the folder and unzip it if zipped
+- look inside to find the index.html file
+**Step : 3 **
+- right click on the index file and run or open with your favorite browser.
+- to find the code, open your favorite text editor and open the folder from there and you are all set
 
-Acknowledgments
-Hat tip to microverse and microverse community and the entire cohort 10
-etc
-memo License
-This project is MIT licensed.
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
